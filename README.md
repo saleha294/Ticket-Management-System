@@ -51,9 +51,9 @@ Built as a university project to demonstrate object-oriented programming, file h
 ```text
 TicketManagementSystem/
 │
-├── main.cpp
-├── 
-└── README.md
+├──README.md
+└── Ticketsystem- source code project.cpp
+
 ```
 
 *(Adjust the structure to match your project.)*
